@@ -3,4 +3,4 @@ vx
 cv
 xc
 vxc
-EDIT 
+EDIT ON update readme
