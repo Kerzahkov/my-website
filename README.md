@@ -4,3 +4,4 @@ cv
 xc
 vxc
 EDIT ON update readme
+updated locally
